@@ -26,9 +26,9 @@ This project analyzes sales company during two years  trends using Power BI dash
 
 ## Dashboard Preview
 ![Store.png](Store.png)
-![overview](retail%20dashboard.jpeg)
-![product](retail%20dashboard.jpeg)
-![return.png](retail%20dashboard.jpeg)
-![Customer](retail%20dashboard.jpeg)
+![overview](overview.png)
+![product](product.png)
+![return.png](return.png)
+![Customer](Customer.png)
 
 
